@@ -1,1 +1,2 @@
-bomb=false
+# bomb
+false
