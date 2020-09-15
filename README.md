@@ -1,2 +1,1 @@
-# bomb
-bomb atm
+bomb=false
